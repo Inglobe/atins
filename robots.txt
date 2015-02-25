@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: 
+Sitemap: http://www.atinskiteboarding.com/sitemap.xml
+User-agent: noxtrumbot 
+Crawl-delay: 30
