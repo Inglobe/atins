@@ -207,7 +207,7 @@ body.temp_06 {
 #container {
     position:relative;
 	min-height:100%;
-	zoom: 90%;	
+	zoom: 80%;	
 }
 
 .col_1 {
@@ -230,8 +230,8 @@ body.temp_06 {
 
 #wrap {
 	position:relative; 
-	padding:30px 30px;
-	overflow:hidden;
+	padding:18px 18px;
+	/*overflow:hidden;*/
 } 
 
 
@@ -240,7 +240,7 @@ body.temp_06 {
 /*----------------------------------------------*/
 
 .aside {
-	width: 375px; /*320 - 331px*/
+	width: 30%; /*320 - 331px*/
 	float:left;
 	margin-right:0;
 	margin-bottom: 2em;
@@ -260,7 +260,7 @@ body.temp_06 {
 	font-weight:normal;
 } 
 .centered {
-	width: 375px; /*320 - 331px*/
+	width: 60%; /*320 - 331px*/
 	float:left;
 	margin-right:0;
 	margin-bottom: 2em;
@@ -270,17 +270,17 @@ body.temp_06 {
 #titulo{
 
 	height:3em;
-	text-align: center;
+	text-align: left;
 	padding-top: 5em;
 
 }
 #titulo h2 a {
 	letter-spacing: 1px;
-    font-size:4em;
+    font-size:8em;
 	text-transform:uppercase;
 	color:#1d1d1d;
 	font-family: 'intro';
-	line-height:45px;
+	line-height:82px;
 	font-weight:normal;
 	text-align: center;
 } 
@@ -334,7 +334,7 @@ ul.menu li a {
 	display:block;
 	position:relative;
 	color:#f6f6f6;
-	font-size:16px;
+	font-size:17px;
 	padding-top:8px !important;
 	padding-left:37px;
 	width:auto;
