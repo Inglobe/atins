@@ -275,15 +275,19 @@ body.temp_06 {
 
 }
 #titulo h2 a {
-	letter-spacing:-3px;
-    font-size:57px;
+	letter-spacing: 1px;
+    font-size:4em;
 	text-transform:uppercase;
 	color:#1d1d1d;
-	font-family: 'CicleGordita';
+	font-family: 'intro';
 	line-height:45px;
 	font-weight:normal;
 	text-align: center;
 } 
+#titulo h2::first-letter { 
+    color: #f6007a;
+}
+
 #textslide {
 
 	margin-top:3em;
