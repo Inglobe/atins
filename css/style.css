@@ -259,7 +259,37 @@ body.temp_06 {
 	line-height:45px;
 	font-weight:normal;
 } 
- 
+.centered {
+	width: 375px; /*320 - 331px*/
+	float:left;
+	margin-right:0;
+	margin-bottom: 2em;
+	z-index:20000;
+	position:relative;
+}
+#titulo{
+
+	height:3em;
+	text-align: center;
+	padding-top: 5em;
+
+}
+#titulo h2 a {
+	letter-spacing:-3px;
+    font-size:57px;
+	text-transform:uppercase;
+	color:#1d1d1d;
+	font-family: 'CicleGordita';
+	line-height:45px;
+	font-weight:normal;
+	text-align: center;
+} 
+#textslide {
+
+	margin-top:3em;
+	
+}
+
 #logo h4 {
 	font-size:18px;
 	color:#1d1d1d;
@@ -1141,6 +1171,5 @@ span.zoom {
   -moz-box-shadow:#666666 1px 1px 3px;
   -webkit-box-shadow:#666666 1px 1px 3px;
 }
-
 
 
