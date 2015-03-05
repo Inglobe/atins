@@ -284,10 +284,18 @@ body.temp_06 {
 	font-weight:normal;
 	text-align: center;
 } 
-#titulo h2::first-letter { 
+/*#titulo h2::first-letter { 
+    color: #f6007a;
+}*/
+#a {
+    color: #009fd9;
+}
+#k {
     color: #f6007a;
 }
-
+#b {
+    color: #76c3a6;
+}
 #textslide {
 
 	margin-top:3em;
