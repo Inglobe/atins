@@ -926,11 +926,9 @@ ul.social li {
 	margin-right:8px;
 } 
 
-/*ul.social li a {
-	display:block;
-	cursor:pointer;
-	text-indent:-9999px;
-} */
+ul.social li a {
+	color: rgb(182, 182, 184);
+} 
 
 ul.social .tw, ul.social .fb, ul.social .in {
 	background:url(../images/redes-01.png) no-repeat;
